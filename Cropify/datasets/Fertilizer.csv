@@ -1,0 +1,1844 @@
+Unnamed: 0,Crop,N,P,K,pH
+0,Basil,80,40,40,5.5
+1,Mint,80,40,40,5.5
+2,Oregano,70,40,45,5.5
+3,Parsley,80,40,20,5.5
+4,Cilantro (Coriander),50,40,20,5.5
+5,Rosemary,40,60,80,5.5
+6,Thyme,90,125,60,5.0
+7,Sage,90,125,60,5.0
+8,Dill,40,60,20,5.0
+9,Chives,25,50,25,5.0
+10,Tarragon,20,60,20,5.5
+11,Lemongrass,20,60,20,5.5
+12,Stevia,20,60,20,5.5
+13,Marjoram,20,60,20,5.5
+14,Lavender,20,40,20,5.5
+15,Lettuce,20,40,20,5.5
+16,Spinach,40,35,55,6.0
+17,Arugula,20,60,20,6.0
+18,Swiss Chard,40,60,20,5.0
+19,Kale,50,40,20,5.0
+20,Mustard Greens,90,20,20,6.5
+21,Collard Greens,100,30,15,6.5
+22,Endive,30,15,30,6.5
+23,Watercress,90,60,20,6.5
+24,Romaine Lettuce,20,60,20,5.5
+25,Bok Choy,80,15,40,6.5
+26,Mizuna,120,50,100,5.5
+27,Tatsoi,60,10,20,6.5
+28,Radicchio,100,50,50,6.5
+29,Escarole,100,20,60,6.5
+30,Tomatoes,100,65,70,6.5
+31,Cucumbers,40,45,60,5.5
+32,Bell Peppers,80,70,50,6.5
+33,Chili Peppers,60,60,85,6.5
+34,Zucchini,10,20,20,6.5
+35,Squash,20,20,20,6.5
+36,Eggplant,40,20,10,6.5
+37,Broccoli,120,20,80,6.5
+38,Cauliflower,80,10,40,6.5
+39,Cabbage,100,50,60,6.5
+40,Celery,120,60,65,6.0
+41,Brussels Sprouts,180,60,90,5.0
+42,Carrots,80,50,30,5.5
+43,Beetroot,25,100,50,6.0
+44,Radishes,100,60,30,6.5
+45,Kohlrabi,90,20,120,5.0
+46,Turnips,30,25,40,6.0
+47,Peas,60,60,50,6.0
+48,"Beans (Green Beans, Pole Beans)",90,50,20,6.5
+49,Asparagus,20,50,20,4.5
+50,Leeks,10,10,10,4.2
+51,Fennel,20,10,10,6.0
+52,Strawberries,40,25,50,4.2
+53,Blueberries,20,15,25,3.1
+54,Blackberries,50,50,50,5.5
+55,Raspberries,50,10,60,5.5
+56,Grapes,20,10,10,3.1
+57,Watermelon,100,40,90,6.0
+58,Cantaloupe (Muskmelon),60,10,30,5.5
+59,Honeydew Melon,160,40,120,6.5
+60,Pineapple,20,10,40,5.5
+61,Kiwi,100,75,50,6.5
+62,Figs,20,20,30,5.0
+63,Microgreens,20,125,200,4.0
+64,Alfalfa,75,40,50,5.0
+65,Wheatgrass,50,50,50,5.0
+66,Sorrel,100,10,50,5.5
+67,Amaranth,100,10,50,5.5
+68,Corn Salad,40,50,25,6.5
+69,Basil Thai,20,125,200,6.5
+70,Mustard Cress,40,30,60,5.0
+71,Purslane,40,20,40,6.5
+72,Shiso,40,125,20,6.5
+73,Baby Spinach,20,60,20,5.0
+74,Pak Choi (Baby Bok Choy),20,10,10,4.0
+75,Pea Shoots,50,50,50,6.0
+76,Red Mustard,100,50,20,5.0
+77,Mizuna Purple,90,40,20,5.0
+78,Parsley Flat-leaf,100,50,25,5.0
+79,Leaf Celery,100,60,50,5.0
+80,Lemon Balm,75,75,150,5.0
+81,Hyssop,20,20,25,5.0
+82,Nasturtium,20,20,60,5.0
+83,Calendula,20,20,60,5.0
+84,Mustard Spinach,40,50,20,5.0
+85,Radish Sprouts,25,60,100,5.0
+86,Pea Tendrils,70,40,60,6.0
+87,Snow Peas,60,30,30,6.0
+88,Swiss Mint,20,10,30,5.0
+89,Thyme English,70,20,10,6.0
+90,Lemon Basil,100,40,140,6.0
+91,Summer Savory,90,20,20,6.0
+92,Okra,25,40,40,5.5
+93,Peppermint,120,40,20,5.5
+94,Chamomile,80,40,40,5.5
+95,Dill Giant,100,20,30,5.5
+96,Tarragon Russian,50,60,30,5.5
+97,Basil,80,40,40,5.52
+98,Mint,80,40,40,5.52
+99,Oregano,70,40,45,5.52
+100,Parsley,80,40,20,5.52
+101,Cilantro (Coriander),50,40,20,5.52
+102,Rosemary,40,60,80,5.52
+103,Thyme,90,125,60,5.02
+104,Sage,90,125,60,5.02
+105,Dill,40,60,20,5.02
+106,Chives,25,50,25,5.02
+107,Tarragon,20,60,20,5.52
+108,Lemongrass,20,60,20,5.52
+109,Stevia,20,60,20,5.52
+110,Marjoram,20,60,20,5.52
+111,Lavender,20,40,20,5.52
+112,Lettuce,20,40,20,5.52
+113,Spinach,40,35,55,6.02
+114,Arugula,20,60,20,6.02
+115,Swiss Chard,40,60,20,5.02
+116,Kale,50,40,20,5.02
+117,Mustard Greens,90,20,20,6.52
+118,Collard Greens,100,30,15,6.52
+119,Endive,30,15,30,6.52
+120,Watercress,90,60,20,6.52
+121,Romaine Lettuce,20,60,20,5.52
+122,Bok Choy,80,15,40,6.52
+123,Mizuna,120,50,100,5.52
+124,Tatsoi,60,10,20,6.52
+125,Radicchio,100,50,50,6.52
+126,Escarole,100,20,60,6.52
+127,Tomatoes,100,65,70,6.52
+128,Cucumbers,40,45,60,5.52
+129,Bell Peppers,80,70,50,6.52
+130,Chili Peppers,60,60,85,6.52
+131,Zucchini,10,20,20,6.52
+132,Squash,20,20,20,6.52
+133,Eggplant,40,20,10,6.52
+134,Broccoli,120,20,80,6.52
+135,Cauliflower,80,10,40,6.52
+136,Cabbage,100,50,60,6.52
+137,Celery,120,60,65,6.02
+138,Brussels Sprouts,180,60,90,5.02
+139,Carrots,80,50,30,5.52
+140,Beetroot,25,100,50,6.02
+141,Radishes,100,60,30,6.52
+142,Kohlrabi,90,20,120,5.02
+143,Turnips,30,25,40,6.02
+144,Peas,60,60,50,6.02
+145,"Beans (Green Beans, Pole Beans)",90,50,20,6.52
+146,Asparagus,20,50,20,4.52
+147,Leeks,10,10,10,4.22
+148,Fennel,20,10,10,6.02
+149,Strawberries,40,25,50,4.22
+150,Blueberries,20,15,25,3.12
+151,Blackberries,50,50,50,5.52
+152,Raspberries,50,10,60,5.52
+153,Grapes,20,10,10,3.12
+154,Watermelon,100,40,90,6.02
+155,Cantaloupe (Muskmelon),60,10,30,5.52
+156,Honeydew Melon,160,40,120,6.52
+157,Pineapple,20,10,40,5.52
+158,Kiwi,100,75,50,6.52
+159,Figs,20,20,30,5.02
+160,Microgreens,20,125,200,4.02
+161,Alfalfa,75,40,50,5.02
+162,Wheatgrass,50,50,50,5.02
+163,Sorrel,100,10,50,5.52
+164,Amaranth,100,10,50,5.52
+165,Corn Salad,40,50,25,6.52
+166,Basil Thai,20,125,200,6.52
+167,Mustard Cress,40,30,60,5.02
+168,Purslane,40,20,40,6.52
+169,Shiso,40,125,20,6.52
+170,Baby Spinach,20,60,20,5.02
+171,Pak Choi (Baby Bok Choy),20,10,10,4.02
+172,Pea Shoots,50,50,50,6.02
+173,Red Mustard,100,50,20,5.02
+174,Mizuna Purple,90,40,20,5.02
+175,Parsley Flat-leaf,100,50,25,5.02
+176,Leaf Celery,100,60,50,5.02
+177,Lemon Balm,75,75,150,5.02
+178,Hyssop,20,20,25,5.02
+179,Nasturtium,20,20,60,5.02
+180,Calendula,20,20,60,5.02
+181,Mustard Spinach,40,50,20,5.02
+182,Radish Sprouts,25,60,100,5.02
+183,Pea Tendrils,70,40,60,6.02
+184,Snow Peas,60,30,30,6.02
+185,Swiss Mint,20,10,30,5.02
+186,Thyme English,70,20,10,6.02
+187,Lemon Basil,100,40,140,6.02
+188,Summer Savory,90,20,20,6.02
+189,Okra,25,40,40,5.52
+190,Peppermint,120,40,20,5.52
+191,Chamomile,80,40,40,5.52
+192,Dill Giant,100,20,30,5.52
+193,Tarragon Russian,50,60,30,5.52
+194,Basil,80,40,40,5.54
+195,Mint,80,40,40,5.54
+196,Oregano,70,40,45,5.54
+197,Parsley,80,40,20,5.54
+198,Cilantro (Coriander),50,40,20,5.54
+199,Rosemary,40,60,80,5.54
+200,Thyme,90,125,60,5.04
+201,Sage,90,125,60,5.04
+202,Dill,40,60,20,5.04
+203,Chives,25,50,25,5.04
+204,Tarragon,20,60,20,5.54
+205,Lemongrass,20,60,20,5.54
+206,Stevia,20,60,20,5.54
+207,Marjoram,20,60,20,5.54
+208,Lavender,20,40,20,5.54
+209,Lettuce,20,40,20,5.54
+210,Spinach,40,35,55,6.04
+211,Arugula,20,60,20,6.04
+212,Swiss Chard,40,60,20,5.04
+213,Kale,50,40,20,5.04
+214,Mustard Greens,90,20,20,6.54
+215,Collard Greens,100,30,15,6.54
+216,Endive,30,15,30,6.54
+217,Watercress,90,60,20,6.54
+218,Romaine Lettuce,20,60,20,5.54
+219,Bok Choy,80,15,40,6.54
+220,Mizuna,120,50,100,5.54
+221,Tatsoi,60,10,20,6.54
+222,Radicchio,100,50,50,6.54
+223,Escarole,100,20,60,6.54
+224,Tomatoes,100,65,70,6.54
+225,Cucumbers,40,45,60,5.54
+226,Bell Peppers,80,70,50,6.54
+227,Chili Peppers,60,60,85,6.54
+228,Zucchini,10,20,20,6.54
+229,Squash,20,20,20,6.54
+230,Eggplant,40,20,10,6.54
+231,Broccoli,120,20,80,6.54
+232,Cauliflower,80,10,40,6.54
+233,Cabbage,100,50,60,6.54
+234,Celery,120,60,65,6.04
+235,Brussels Sprouts,180,60,90,5.04
+236,Carrots,80,50,30,5.54
+237,Beetroot,25,100,50,6.04
+238,Radishes,100,60,30,6.54
+239,Kohlrabi,90,20,120,5.04
+240,Turnips,30,25,40,6.04
+241,Peas,60,60,50,6.04
+242,"Beans (Green Beans, Pole Beans)",90,50,20,6.54
+243,Asparagus,20,50,20,4.54
+244,Leeks,10,10,10,4.24
+245,Fennel,20,10,10,6.04
+246,Strawberries,40,25,50,4.24
+247,Blueberries,20,15,25,3.14
+248,Blackberries,50,50,50,5.54
+249,Raspberries,50,10,60,5.54
+250,Grapes,20,10,10,3.14
+251,Watermelon,100,40,90,6.04
+252,Cantaloupe (Muskmelon),60,10,30,5.54
+253,Honeydew Melon,160,40,120,6.54
+254,Pineapple,20,10,40,5.54
+255,Kiwi,100,75,50,6.54
+256,Figs,20,20,30,5.04
+257,Microgreens,20,125,200,4.04
+258,Alfalfa,75,40,50,5.04
+259,Wheatgrass,50,50,50,5.04
+260,Sorrel,100,10,50,5.54
+261,Amaranth,100,10,50,5.54
+262,Corn Salad,40,50,25,6.54
+263,Basil Thai,20,125,200,6.54
+264,Mustard Cress,40,30,60,5.04
+265,Purslane,40,20,40,6.54
+266,Shiso,40,125,20,6.54
+267,Baby Spinach,20,60,20,5.04
+268,Pak Choi (Baby Bok Choy),20,10,10,4.04
+269,Pea Shoots,50,50,50,6.04
+270,Red Mustard,100,50,20,5.04
+271,Mizuna Purple,90,40,20,5.04
+272,Parsley Flat-leaf,100,50,25,5.04
+273,Leaf Celery,100,60,50,5.04
+274,Lemon Balm,75,75,150,5.04
+275,Hyssop,20,20,25,5.04
+276,Nasturtium,20,20,60,5.04
+277,Calendula,20,20,60,5.04
+278,Mustard Spinach,40,50,20,5.04
+279,Radish Sprouts,25,60,100,5.04
+280,Pea Tendrils,70,40,60,6.04
+281,Snow Peas,60,30,30,6.04
+282,Swiss Mint,20,10,30,5.04
+283,Thyme English,70,20,10,6.04
+284,Lemon Basil,100,40,140,6.04
+285,Summer Savory,90,20,20,6.04
+286,Okra,25,40,40,5.54
+287,Peppermint,120,40,20,5.54
+288,Chamomile,80,40,40,5.54
+289,Dill Giant,100,20,30,5.54
+290,Tarragon Russian,50,60,30,5.54
+291,Basil,80,40,40,5.56
+292,Mint,80,40,40,5.56
+293,Oregano,70,40,45,5.56
+294,Parsley,80,40,20,5.56
+295,Cilantro (Coriander),50,40,20,5.56
+296,Rosemary,40,60,80,5.56
+297,Thyme,90,125,60,5.06
+298,Sage,90,125,60,5.06
+299,Dill,40,60,20,5.06
+300,Chives,25,50,25,5.06
+301,Tarragon,20,60,20,5.56
+302,Lemongrass,20,60,20,5.56
+303,Stevia,20,60,20,5.56
+304,Marjoram,20,60,20,5.56
+305,Lavender,20,40,20,5.56
+306,Lettuce,20,40,20,5.56
+307,Spinach,40,35,55,6.06
+308,Arugula,20,60,20,6.06
+309,Swiss Chard,40,60,20,5.06
+310,Kale,50,40,20,5.06
+311,Mustard Greens,90,20,20,6.56
+312,Collard Greens,100,30,15,6.56
+313,Endive,30,15,30,6.56
+314,Watercress,90,60,20,6.56
+315,Romaine Lettuce,20,60,20,5.56
+316,Bok Choy,80,15,40,6.56
+317,Mizuna,120,50,100,5.56
+318,Tatsoi,60,10,20,6.56
+319,Radicchio,100,50,50,6.56
+320,Escarole,100,20,60,6.56
+321,Tomatoes,100,65,70,6.56
+322,Cucumbers,40,45,60,5.56
+323,Bell Peppers,80,70,50,6.56
+324,Chili Peppers,60,60,85,6.56
+325,Zucchini,10,20,20,6.56
+326,Squash,20,20,20,6.56
+327,Eggplant,40,20,10,6.56
+328,Broccoli,120,20,80,6.56
+329,Cauliflower,80,10,40,6.56
+330,Cabbage,100,50,60,6.56
+331,Celery,120,60,65,6.06
+332,Brussels Sprouts,180,60,90,5.06
+333,Carrots,80,50,30,5.56
+334,Beetroot,25,100,50,6.06
+335,Radishes,100,60,30,6.56
+336,Kohlrabi,90,20,120,5.06
+337,Turnips,30,25,40,6.06
+338,Peas,60,60,50,6.06
+339,"Beans (Green Beans, Pole Beans)",90,50,20,6.56
+340,Asparagus,20,50,20,4.56
+341,Leeks,10,10,10,4.26
+342,Fennel,20,10,10,6.06
+343,Strawberries,40,25,50,4.26
+344,Blueberries,20,15,25,3.16
+345,Blackberries,50,50,50,5.56
+346,Raspberries,50,10,60,5.56
+347,Grapes,20,10,10,3.16
+348,Watermelon,100,40,90,6.06
+349,Cantaloupe (Muskmelon),60,10,30,5.56
+350,Honeydew Melon,160,40,120,6.56
+351,Pineapple,20,10,40,5.56
+352,Kiwi,100,75,50,6.56
+353,Figs,20,20,30,5.06
+354,Microgreens,20,125,200,4.06
+355,Alfalfa,75,40,50,5.06
+356,Wheatgrass,50,50,50,5.06
+357,Sorrel,100,10,50,5.56
+358,Amaranth,100,10,50,5.56
+359,Corn Salad,40,50,25,6.56
+360,Basil Thai,20,125,200,6.56
+361,Mustard Cress,40,30,60,5.06
+362,Purslane,40,20,40,6.56
+363,Shiso,40,125,20,6.56
+364,Baby Spinach,20,60,20,5.06
+365,Pak Choi (Baby Bok Choy),20,10,10,4.06
+366,Pea Shoots,50,50,50,6.06
+367,Red Mustard,100,50,20,5.06
+368,Mizuna Purple,90,40,20,5.06
+369,Parsley Flat-leaf,100,50,25,5.06
+370,Leaf Celery,100,60,50,5.06
+371,Lemon Balm,75,75,150,5.06
+372,Hyssop,20,20,25,5.06
+373,Nasturtium,20,20,60,5.06
+374,Calendula,20,20,60,5.06
+375,Mustard Spinach,40,50,20,5.06
+376,Radish Sprouts,25,60,100,5.06
+377,Pea Tendrils,70,40,60,6.06
+378,Snow Peas,60,30,30,6.06
+379,Swiss Mint,20,10,30,5.06
+380,Thyme English,70,20,10,6.06
+381,Lemon Basil,100,40,140,6.06
+382,Summer Savory,90,20,20,6.06
+383,Okra,25,40,40,5.56
+384,Peppermint,120,40,20,5.56
+385,Chamomile,80,40,40,5.56
+386,Dill Giant,100,20,30,5.56
+387,Tarragon Russian,50,60,30,5.56
+388,Basil,80,40,40,5.58
+389,Mint,80,40,40,5.58
+390,Oregano,70,40,45,5.58
+391,Parsley,80,40,20,5.58
+392,Cilantro (Coriander),50,40,20,5.58
+393,Rosemary,40,60,80,5.58
+394,Thyme,90,125,60,5.08
+395,Sage,90,125,60,5.08
+396,Dill,40,60,20,5.08
+397,Chives,25,50,25,5.08
+398,Tarragon,20,60,20,5.58
+399,Lemongrass,20,60,20,5.58
+400,Stevia,20,60,20,5.58
+401,Marjoram,20,60,20,5.58
+402,Lavender,20,40,20,5.58
+403,Lettuce,20,40,20,5.58
+404,Spinach,40,35,55,6.08
+405,Arugula,20,60,20,6.08
+406,Swiss Chard,40,60,20,5.08
+407,Kale,50,40,20,5.08
+408,Mustard Greens,90,20,20,6.58
+409,Collard Greens,100,30,15,6.58
+410,Endive,30,15,30,6.58
+411,Watercress,90,60,20,6.58
+412,Romaine Lettuce,20,60,20,5.58
+413,Bok Choy,80,15,40,6.58
+414,Mizuna,120,50,100,5.58
+415,Tatsoi,60,10,20,6.58
+416,Radicchio,100,50,50,6.58
+417,Escarole,100,20,60,6.58
+418,Tomatoes,100,65,70,6.58
+419,Cucumbers,40,45,60,5.58
+420,Bell Peppers,80,70,50,6.58
+421,Chili Peppers,60,60,85,6.58
+422,Zucchini,10,20,20,6.58
+423,Squash,20,20,20,6.58
+424,Eggplant,40,20,10,6.58
+425,Broccoli,120,20,80,6.58
+426,Cauliflower,80,10,40,6.58
+427,Cabbage,100,50,60,6.58
+428,Celery,120,60,65,6.08
+429,Brussels Sprouts,180,60,90,5.08
+430,Carrots,80,50,30,5.58
+431,Beetroot,25,100,50,6.08
+432,Radishes,100,60,30,6.58
+433,Kohlrabi,90,20,120,5.08
+434,Turnips,30,25,40,6.08
+435,Peas,60,60,50,6.08
+436,"Beans (Green Beans, Pole Beans)",90,50,20,6.58
+437,Asparagus,20,50,20,4.58
+438,Leeks,10,10,10,4.28
+439,Fennel,20,10,10,6.08
+440,Strawberries,40,25,50,4.28
+441,Blueberries,20,15,25,3.18
+442,Blackberries,50,50,50,5.58
+443,Raspberries,50,10,60,5.58
+444,Grapes,20,10,10,3.18
+445,Watermelon,100,40,90,6.08
+446,Cantaloupe (Muskmelon),60,10,30,5.58
+447,Honeydew Melon,160,40,120,6.58
+448,Pineapple,20,10,40,5.58
+449,Kiwi,100,75,50,6.58
+450,Figs,20,20,30,5.08
+451,Microgreens,20,125,200,4.08
+452,Alfalfa,75,40,50,5.08
+453,Wheatgrass,50,50,50,5.08
+454,Sorrel,100,10,50,5.58
+455,Amaranth,100,10,50,5.58
+456,Corn Salad,40,50,25,6.58
+457,Basil Thai,20,125,200,6.58
+458,Mustard Cress,40,30,60,5.08
+459,Purslane,40,20,40,6.58
+460,Shiso,40,125,20,6.58
+461,Baby Spinach,20,60,20,5.08
+462,Pak Choi (Baby Bok Choy),20,10,10,4.08
+463,Pea Shoots,50,50,50,6.08
+464,Red Mustard,100,50,20,5.08
+465,Mizuna Purple,90,40,20,5.08
+466,Parsley Flat-leaf,100,50,25,5.08
+467,Leaf Celery,100,60,50,5.08
+468,Lemon Balm,75,75,150,5.08
+469,Hyssop,20,20,25,5.08
+470,Nasturtium,20,20,60,5.08
+471,Calendula,20,20,60,5.08
+472,Mustard Spinach,40,50,20,5.08
+473,Radish Sprouts,25,60,100,5.08
+474,Pea Tendrils,70,40,60,6.08
+475,Snow Peas,60,30,30,6.08
+476,Swiss Mint,20,10,30,5.08
+477,Thyme English,70,20,10,6.08
+478,Lemon Basil,100,40,140,6.08
+479,Summer Savory,90,20,20,6.08
+480,Okra,25,40,40,5.58
+481,Peppermint,120,40,20,5.58
+482,Chamomile,80,40,40,5.58
+483,Dill Giant,100,20,30,5.58
+484,Tarragon Russian,50,60,30,5.58
+485,Basil,80,40,40,5.6
+486,Mint,80,40,40,5.6
+487,Oregano,70,40,45,5.6
+488,Parsley,80,40,20,5.6
+489,Cilantro (Coriander),50,40,20,5.6
+490,Rosemary,40,60,80,5.6
+491,Thyme,90,125,60,5.1
+492,Sage,90,125,60,5.1
+493,Dill,40,60,20,5.1
+494,Chives,25,50,25,5.1
+495,Tarragon,20,60,20,5.6
+496,Lemongrass,20,60,20,5.6
+497,Stevia,20,60,20,5.6
+498,Marjoram,20,60,20,5.6
+499,Lavender,20,40,20,5.6
+500,Lettuce,20,40,20,5.6
+501,Spinach,40,35,55,6.1
+502,Arugula,20,60,20,6.1
+503,Swiss Chard,40,60,20,5.1
+504,Kale,50,40,20,5.1
+505,Mustard Greens,90,20,20,6.6
+506,Collard Greens,100,30,15,6.6
+507,Endive,30,15,30,6.6
+508,Watercress,90,60,20,6.6
+509,Romaine Lettuce,20,60,20,5.6
+510,Bok Choy,80,15,40,6.6
+511,Mizuna,120,50,100,5.6
+512,Tatsoi,60,10,20,6.6
+513,Radicchio,100,50,50,6.6
+514,Escarole,100,20,60,6.6
+515,Tomatoes,100,65,70,6.6
+516,Cucumbers,40,45,60,5.6
+517,Bell Peppers,80,70,50,6.6
+518,Chili Peppers,60,60,85,6.6
+519,Zucchini,10,20,20,6.6
+520,Squash,20,20,20,6.6
+521,Eggplant,40,20,10,6.6
+522,Broccoli,120,20,80,6.6
+523,Cauliflower,80,10,40,6.6
+524,Cabbage,100,50,60,6.6
+525,Celery,120,60,65,6.1
+526,Brussels Sprouts,180,60,90,5.1
+527,Carrots,80,50,30,5.6
+528,Beetroot,25,100,50,6.1
+529,Radishes,100,60,30,6.6
+530,Kohlrabi,90,20,120,5.1
+531,Turnips,30,25,40,6.1
+532,Peas,60,60,50,6.1
+533,"Beans (Green Beans, Pole Beans)",90,50,20,6.6
+534,Asparagus,20,50,20,4.6
+535,Leeks,10,10,10,4.3
+536,Fennel,20,10,10,6.1
+537,Strawberries,40,25,50,4.3
+538,Blueberries,20,15,25,3.2
+539,Blackberries,50,50,50,5.6
+540,Raspberries,50,10,60,5.6
+541,Grapes,20,10,10,3.2
+542,Watermelon,100,40,90,6.1
+543,Cantaloupe (Muskmelon),60,10,30,5.6
+544,Honeydew Melon,160,40,120,6.6
+545,Pineapple,20,10,40,5.6
+546,Kiwi,100,75,50,6.6
+547,Figs,20,20,30,5.1
+548,Microgreens,20,125,200,4.1
+549,Alfalfa,75,40,50,5.1
+550,Wheatgrass,50,50,50,5.1
+551,Sorrel,100,10,50,5.6
+552,Amaranth,100,10,50,5.6
+553,Corn Salad,40,50,25,6.6
+554,Basil Thai,20,125,200,6.6
+555,Mustard Cress,40,30,60,5.1
+556,Purslane,40,20,40,6.6
+557,Shiso,40,125,20,6.6
+558,Baby Spinach,20,60,20,5.1
+559,Pak Choi (Baby Bok Choy),20,10,10,4.1
+560,Pea Shoots,50,50,50,6.1
+561,Red Mustard,100,50,20,5.1
+562,Mizuna Purple,90,40,20,5.1
+563,Parsley Flat-leaf,100,50,25,5.1
+564,Leaf Celery,100,60,50,5.1
+565,Lemon Balm,75,75,150,5.1
+566,Hyssop,20,20,25,5.1
+567,Nasturtium,20,20,60,5.1
+568,Calendula,20,20,60,5.1
+569,Mustard Spinach,40,50,20,5.1
+570,Radish Sprouts,25,60,100,5.1
+571,Pea Tendrils,70,40,60,6.1
+572,Snow Peas,60,30,30,6.1
+573,Swiss Mint,20,10,30,5.1
+574,Thyme English,70,20,10,6.1
+575,Lemon Basil,100,40,140,6.1
+576,Summer Savory,90,20,20,6.1
+577,Okra,25,40,40,5.6
+578,Peppermint,120,40,20,5.6
+579,Chamomile,80,40,40,5.6
+580,Dill Giant,100,20,30,5.6
+581,Tarragon Russian,50,60,30,5.6
+582,Basil,80,40,40,5.62
+583,Mint,80,40,40,5.62
+584,Oregano,70,40,45,5.62
+585,Parsley,80,40,20,5.62
+586,Cilantro (Coriander),50,40,20,5.62
+587,Rosemary,40,60,80,5.62
+588,Thyme,90,125,60,5.12
+589,Sage,90,125,60,5.12
+590,Dill,40,60,20,5.12
+591,Chives,25,50,25,5.12
+592,Tarragon,20,60,20,5.62
+593,Lemongrass,20,60,20,5.62
+594,Stevia,20,60,20,5.62
+595,Marjoram,20,60,20,5.62
+596,Lavender,20,40,20,5.62
+597,Lettuce,20,40,20,5.62
+598,Spinach,40,35,55,6.12
+599,Arugula,20,60,20,6.12
+600,Swiss Chard,40,60,20,5.12
+601,Kale,50,40,20,5.12
+602,Mustard Greens,90,20,20,6.62
+603,Collard Greens,100,30,15,6.62
+604,Endive,30,15,30,6.62
+605,Watercress,90,60,20,6.62
+606,Romaine Lettuce,20,60,20,5.62
+607,Bok Choy,80,15,40,6.62
+608,Mizuna,120,50,100,5.62
+609,Tatsoi,60,10,20,6.62
+610,Radicchio,100,50,50,6.62
+611,Escarole,100,20,60,6.62
+612,Tomatoes,100,65,70,6.62
+613,Cucumbers,40,45,60,5.62
+614,Bell Peppers,80,70,50,6.62
+615,Chili Peppers,60,60,85,6.62
+616,Zucchini,10,20,20,6.62
+617,Squash,20,20,20,6.62
+618,Eggplant,40,20,10,6.62
+619,Broccoli,120,20,80,6.62
+620,Cauliflower,80,10,40,6.62
+621,Cabbage,100,50,60,6.62
+622,Celery,120,60,65,6.12
+623,Brussels Sprouts,180,60,90,5.12
+624,Carrots,80,50,30,5.62
+625,Beetroot,25,100,50,6.12
+626,Radishes,100,60,30,6.62
+627,Kohlrabi,90,20,120,5.12
+628,Turnips,30,25,40,6.12
+629,Peas,60,60,50,6.12
+630,"Beans (Green Beans, Pole Beans)",90,50,20,6.62
+631,Asparagus,20,50,20,4.62
+632,Leeks,10,10,10,4.32
+633,Fennel,20,10,10,6.12
+634,Strawberries,40,25,50,4.32
+635,Blueberries,20,15,25,3.22
+636,Blackberries,50,50,50,5.62
+637,Raspberries,50,10,60,5.62
+638,Grapes,20,10,10,3.22
+639,Watermelon,100,40,90,6.12
+640,Cantaloupe (Muskmelon),60,10,30,5.62
+641,Honeydew Melon,160,40,120,6.62
+642,Pineapple,20,10,40,5.62
+643,Kiwi,100,75,50,6.62
+644,Figs,20,20,30,5.12
+645,Microgreens,20,125,200,4.12
+646,Alfalfa,75,40,50,5.12
+647,Wheatgrass,50,50,50,5.12
+648,Sorrel,100,10,50,5.62
+649,Amaranth,100,10,50,5.62
+650,Corn Salad,40,50,25,6.62
+651,Basil Thai,20,125,200,6.62
+652,Mustard Cress,40,30,60,5.12
+653,Purslane,40,20,40,6.62
+654,Shiso,40,125,20,6.62
+655,Baby Spinach,20,60,20,5.12
+656,Pak Choi (Baby Bok Choy),20,10,10,4.12
+657,Pea Shoots,50,50,50,6.12
+658,Red Mustard,100,50,20,5.12
+659,Mizuna Purple,90,40,20,5.12
+660,Parsley Flat-leaf,100,50,25,5.12
+661,Leaf Celery,100,60,50,5.12
+662,Lemon Balm,75,75,150,5.12
+663,Hyssop,20,20,25,5.12
+664,Nasturtium,20,20,60,5.12
+665,Calendula,20,20,60,5.12
+666,Mustard Spinach,40,50,20,5.12
+667,Radish Sprouts,25,60,100,5.12
+668,Pea Tendrils,70,40,60,6.12
+669,Snow Peas,60,30,30,6.12
+670,Swiss Mint,20,10,30,5.12
+671,Thyme English,70,20,10,6.12
+672,Lemon Basil,100,40,140,6.12
+673,Summer Savory,90,20,20,6.12
+674,Okra,25,40,40,5.62
+675,Peppermint,120,40,20,5.62
+676,Chamomile,80,40,40,5.62
+677,Dill Giant,100,20,30,5.62
+678,Tarragon Russian,50,60,30,5.62
+679,Basil,80,40,40,5.64
+680,Mint,80,40,40,5.64
+681,Oregano,70,40,45,5.64
+682,Parsley,80,40,20,5.64
+683,Cilantro (Coriander),50,40,20,5.64
+684,Rosemary,40,60,80,5.64
+685,Thyme,90,125,60,5.14
+686,Sage,90,125,60,5.14
+687,Dill,40,60,20,5.14
+688,Chives,25,50,25,5.14
+689,Tarragon,20,60,20,5.64
+690,Lemongrass,20,60,20,5.64
+691,Stevia,20,60,20,5.64
+692,Marjoram,20,60,20,5.64
+693,Lavender,20,40,20,5.64
+694,Lettuce,20,40,20,5.64
+695,Spinach,40,35,55,6.14
+696,Arugula,20,60,20,6.14
+697,Swiss Chard,40,60,20,5.14
+698,Kale,50,40,20,5.14
+699,Mustard Greens,90,20,20,6.64
+700,Collard Greens,100,30,15,6.64
+701,Endive,30,15,30,6.64
+702,Watercress,90,60,20,6.64
+703,Romaine Lettuce,20,60,20,5.64
+704,Bok Choy,80,15,40,6.64
+705,Mizuna,120,50,100,5.64
+706,Tatsoi,60,10,20,6.64
+707,Radicchio,100,50,50,6.64
+708,Escarole,100,20,60,6.64
+709,Tomatoes,100,65,70,6.64
+710,Cucumbers,40,45,60,5.64
+711,Bell Peppers,80,70,50,6.64
+712,Chili Peppers,60,60,85,6.64
+713,Zucchini,10,20,20,6.64
+714,Squash,20,20,20,6.64
+715,Eggplant,40,20,10,6.64
+716,Broccoli,120,20,80,6.64
+717,Cauliflower,80,10,40,6.64
+718,Cabbage,100,50,60,6.64
+719,Celery,120,60,65,6.14
+720,Brussels Sprouts,180,60,90,5.14
+721,Carrots,80,50,30,5.64
+722,Beetroot,25,100,50,6.14
+723,Radishes,100,60,30,6.64
+724,Kohlrabi,90,20,120,5.14
+725,Turnips,30,25,40,6.14
+726,Peas,60,60,50,6.14
+727,"Beans (Green Beans, Pole Beans)",90,50,20,6.64
+728,Asparagus,20,50,20,4.64
+729,Leeks,10,10,10,4.34
+730,Fennel,20,10,10,6.14
+731,Strawberries,40,25,50,4.34
+732,Blueberries,20,15,25,3.24
+733,Blackberries,50,50,50,5.64
+734,Raspberries,50,10,60,5.64
+735,Grapes,20,10,10,3.24
+736,Watermelon,100,40,90,6.14
+737,Cantaloupe (Muskmelon),60,10,30,5.64
+738,Honeydew Melon,160,40,120,6.64
+739,Pineapple,20,10,40,5.64
+740,Kiwi,100,75,50,6.64
+741,Figs,20,20,30,5.14
+742,Microgreens,20,125,200,4.14
+743,Alfalfa,75,40,50,5.14
+744,Wheatgrass,50,50,50,5.14
+745,Sorrel,100,10,50,5.64
+746,Amaranth,100,10,50,5.64
+747,Corn Salad,40,50,25,6.64
+748,Basil Thai,20,125,200,6.64
+749,Mustard Cress,40,30,60,5.14
+750,Purslane,40,20,40,6.64
+751,Shiso,40,125,20,6.64
+752,Baby Spinach,20,60,20,5.14
+753,Pak Choi (Baby Bok Choy),20,10,10,4.14
+754,Pea Shoots,50,50,50,6.14
+755,Red Mustard,100,50,20,5.14
+756,Mizuna Purple,90,40,20,5.14
+757,Parsley Flat-leaf,100,50,25,5.14
+758,Leaf Celery,100,60,50,5.14
+759,Lemon Balm,75,75,150,5.14
+760,Hyssop,20,20,25,5.14
+761,Nasturtium,20,20,60,5.14
+762,Calendula,20,20,60,5.14
+763,Mustard Spinach,40,50,20,5.14
+764,Radish Sprouts,25,60,100,5.14
+765,Pea Tendrils,70,40,60,6.14
+766,Snow Peas,60,30,30,6.14
+767,Swiss Mint,20,10,30,5.14
+768,Thyme English,70,20,10,6.14
+769,Lemon Basil,100,40,140,6.14
+770,Summer Savory,90,20,20,6.14
+771,Okra,25,40,40,5.64
+772,Peppermint,120,40,20,5.64
+773,Chamomile,80,40,40,5.64
+774,Dill Giant,100,20,30,5.64
+775,Tarragon Russian,50,60,30,5.64
+776,Basil,80,40,40,5.66
+777,Mint,80,40,40,5.66
+778,Oregano,70,40,45,5.66
+779,Parsley,80,40,20,5.66
+780,Cilantro (Coriander),50,40,20,5.66
+781,Rosemary,40,60,80,5.66
+782,Thyme,90,125,60,5.16
+783,Sage,90,125,60,5.16
+784,Dill,40,60,20,5.16
+785,Chives,25,50,25,5.16
+786,Tarragon,20,60,20,5.66
+787,Lemongrass,20,60,20,5.66
+788,Stevia,20,60,20,5.66
+789,Marjoram,20,60,20,5.66
+790,Lavender,20,40,20,5.66
+791,Lettuce,20,40,20,5.66
+792,Spinach,40,35,55,6.16
+793,Arugula,20,60,20,6.16
+794,Swiss Chard,40,60,20,5.16
+795,Kale,50,40,20,5.16
+796,Mustard Greens,90,20,20,6.66
+797,Collard Greens,100,30,15,6.66
+798,Endive,30,15,30,6.66
+799,Watercress,90,60,20,6.66
+800,Romaine Lettuce,20,60,20,5.66
+801,Bok Choy,80,15,40,6.66
+802,Mizuna,120,50,100,5.66
+803,Tatsoi,60,10,20,6.66
+804,Radicchio,100,50,50,6.66
+805,Escarole,100,20,60,6.66
+806,Tomatoes,100,65,70,6.66
+807,Cucumbers,40,45,60,5.66
+808,Bell Peppers,80,70,50,6.66
+809,Chili Peppers,60,60,85,6.66
+810,Zucchini,10,20,20,6.66
+811,Squash,20,20,20,6.66
+812,Eggplant,40,20,10,6.66
+813,Broccoli,120,20,80,6.66
+814,Cauliflower,80,10,40,6.66
+815,Cabbage,100,50,60,6.66
+816,Celery,120,60,65,6.16
+817,Brussels Sprouts,180,60,90,5.16
+818,Carrots,80,50,30,5.66
+819,Beetroot,25,100,50,6.16
+820,Radishes,100,60,30,6.66
+821,Kohlrabi,90,20,120,5.16
+822,Turnips,30,25,40,6.16
+823,Peas,60,60,50,6.16
+824,"Beans (Green Beans, Pole Beans)",90,50,20,6.66
+825,Asparagus,20,50,20,4.66
+826,Leeks,10,10,10,4.36
+827,Fennel,20,10,10,6.16
+828,Strawberries,40,25,50,4.36
+829,Blueberries,20,15,25,3.26
+830,Blackberries,50,50,50,5.66
+831,Raspberries,50,10,60,5.66
+832,Grapes,20,10,10,3.26
+833,Watermelon,100,40,90,6.16
+834,Cantaloupe (Muskmelon),60,10,30,5.66
+835,Honeydew Melon,160,40,120,6.66
+836,Pineapple,20,10,40,5.66
+837,Kiwi,100,75,50,6.66
+838,Figs,20,20,30,5.16
+839,Microgreens,20,125,200,4.16
+840,Alfalfa,75,40,50,5.16
+841,Wheatgrass,50,50,50,5.16
+842,Sorrel,100,10,50,5.66
+843,Amaranth,100,10,50,5.66
+844,Corn Salad,40,50,25,6.66
+845,Basil Thai,20,125,200,6.66
+846,Mustard Cress,40,30,60,5.16
+847,Purslane,40,20,40,6.66
+848,Shiso,40,125,20,6.66
+849,Baby Spinach,20,60,20,5.16
+850,Pak Choi (Baby Bok Choy),20,10,10,4.16
+851,Pea Shoots,50,50,50,6.16
+852,Red Mustard,100,50,20,5.16
+853,Mizuna Purple,90,40,20,5.16
+854,Parsley Flat-leaf,100,50,25,5.16
+855,Leaf Celery,100,60,50,5.16
+856,Lemon Balm,75,75,150,5.16
+857,Hyssop,20,20,25,5.16
+858,Nasturtium,20,20,60,5.16
+859,Calendula,20,20,60,5.16
+860,Mustard Spinach,40,50,20,5.16
+861,Radish Sprouts,25,60,100,5.16
+862,Pea Tendrils,70,40,60,6.16
+863,Snow Peas,60,30,30,6.16
+864,Swiss Mint,20,10,30,5.16
+865,Thyme English,70,20,10,6.16
+866,Lemon Basil,100,40,140,6.16
+867,Summer Savory,90,20,20,6.16
+868,Okra,25,40,40,5.66
+869,Peppermint,120,40,20,5.66
+870,Chamomile,80,40,40,5.66
+871,Dill Giant,100,20,30,5.66
+872,Tarragon Russian,50,60,30,5.66
+873,Basil,80,40,40,5.68
+874,Mint,80,40,40,5.68
+875,Oregano,70,40,45,5.68
+876,Parsley,80,40,20,5.68
+877,Cilantro (Coriander),50,40,20,5.68
+878,Rosemary,40,60,80,5.68
+879,Thyme,90,125,60,5.18
+880,Sage,90,125,60,5.18
+881,Dill,40,60,20,5.18
+882,Chives,25,50,25,5.18
+883,Tarragon,20,60,20,5.68
+884,Lemongrass,20,60,20,5.68
+885,Stevia,20,60,20,5.68
+886,Marjoram,20,60,20,5.68
+887,Lavender,20,40,20,5.68
+888,Lettuce,20,40,20,5.68
+889,Spinach,40,35,55,6.18
+890,Arugula,20,60,20,6.18
+891,Swiss Chard,40,60,20,5.18
+892,Kale,50,40,20,5.18
+893,Mustard Greens,90,20,20,6.68
+894,Collard Greens,100,30,15,6.68
+895,Endive,30,15,30,6.68
+896,Watercress,90,60,20,6.68
+897,Romaine Lettuce,20,60,20,5.68
+898,Bok Choy,80,15,40,6.68
+899,Mizuna,120,50,100,5.68
+900,Tatsoi,60,10,20,6.68
+901,Radicchio,100,50,50,6.68
+902,Escarole,100,20,60,6.68
+903,Tomatoes,100,65,70,6.68
+904,Cucumbers,40,45,60,5.68
+905,Bell Peppers,80,70,50,6.68
+906,Chili Peppers,60,60,85,6.68
+907,Zucchini,10,20,20,6.68
+908,Squash,20,20,20,6.68
+909,Eggplant,40,20,10,6.68
+910,Broccoli,120,20,80,6.68
+911,Cauliflower,80,10,40,6.68
+912,Cabbage,100,50,60,6.68
+913,Celery,120,60,65,6.18
+914,Brussels Sprouts,180,60,90,5.18
+915,Carrots,80,50,30,5.68
+916,Beetroot,25,100,50,6.18
+917,Radishes,100,60,30,6.68
+918,Kohlrabi,90,20,120,5.18
+919,Turnips,30,25,40,6.18
+920,Peas,60,60,50,6.18
+921,"Beans (Green Beans, Pole Beans)",90,50,20,6.68
+922,Asparagus,20,50,20,4.68
+923,Leeks,10,10,10,4.38
+924,Fennel,20,10,10,6.18
+925,Strawberries,40,25,50,4.38
+926,Blueberries,20,15,25,3.28
+927,Blackberries,50,50,50,5.68
+928,Raspberries,50,10,60,5.68
+929,Grapes,20,10,10,3.28
+930,Watermelon,100,40,90,6.18
+931,Cantaloupe (Muskmelon),60,10,30,5.68
+932,Honeydew Melon,160,40,120,6.68
+933,Pineapple,20,10,40,5.68
+934,Kiwi,100,75,50,6.68
+935,Figs,20,20,30,5.18
+936,Microgreens,20,125,200,4.18
+937,Alfalfa,75,40,50,5.18
+938,Wheatgrass,50,50,50,5.18
+939,Sorrel,100,10,50,5.68
+940,Amaranth,100,10,50,5.68
+941,Corn Salad,40,50,25,6.68
+942,Basil Thai,20,125,200,6.68
+943,Mustard Cress,40,30,60,5.18
+944,Purslane,40,20,40,6.68
+945,Shiso,40,125,20,6.68
+946,Baby Spinach,20,60,20,5.18
+947,Pak Choi (Baby Bok Choy),20,10,10,4.18
+948,Pea Shoots,50,50,50,6.18
+949,Red Mustard,100,50,20,5.18
+950,Mizuna Purple,90,40,20,5.18
+951,Parsley Flat-leaf,100,50,25,5.18
+952,Leaf Celery,100,60,50,5.18
+953,Lemon Balm,75,75,150,5.18
+954,Hyssop,20,20,25,5.18
+955,Nasturtium,20,20,60,5.18
+956,Calendula,20,20,60,5.18
+957,Mustard Spinach,40,50,20,5.18
+958,Radish Sprouts,25,60,100,5.18
+959,Pea Tendrils,70,40,60,6.18
+960,Snow Peas,60,30,30,6.18
+961,Swiss Mint,20,10,30,5.18
+962,Thyme English,70,20,10,6.18
+963,Lemon Basil,100,40,140,6.18
+964,Summer Savory,90,20,20,6.18
+965,Okra,25,40,40,5.68
+966,Peppermint,120,40,20,5.68
+967,Chamomile,80,40,40,5.68
+968,Dill Giant,100,20,30,5.68
+969,Tarragon Russian,50,60,30,5.68
+970,Basil,80,40,40,5.48
+971,Mint,80,40,40,5.48
+972,Oregano,70,40,45,5.48
+973,Parsley,80,40,20,5.48
+974,Cilantro (Coriander),50,40,20,5.48
+975,Rosemary,40,60,80,5.48
+976,Thyme,90,125,60,4.98
+977,Sage,90,125,60,4.98
+978,Dill,40,60,20,4.98
+979,Chives,25,50,25,4.98
+980,Tarragon,20,60,20,5.48
+981,Lemongrass,20,60,20,5.48
+982,Stevia,20,60,20,5.48
+983,Marjoram,20,60,20,5.48
+984,Lavender,20,40,20,5.48
+985,Lettuce,20,40,20,5.48
+986,Spinach,40,35,55,5.98
+987,Arugula,20,60,20,5.98
+988,Swiss Chard,40,60,20,4.98
+989,Kale,50,40,20,4.98
+990,Mustard Greens,90,20,20,6.48
+991,Collard Greens,100,30,15,6.48
+992,Endive,30,15,30,6.48
+993,Watercress,90,60,20,6.48
+994,Romaine Lettuce,20,60,20,5.48
+995,Bok Choy,80,15,40,6.48
+996,Mizuna,120,50,100,5.48
+997,Tatsoi,60,10,20,6.48
+998,Radicchio,100,50,50,6.48
+999,Escarole,100,20,60,6.48
+1000,Tomatoes,100,65,70,6.48
+1001,Cucumbers,40,45,60,5.48
+1002,Bell Peppers,80,70,50,6.48
+1003,Chili Peppers,60,60,85,6.48
+1004,Zucchini,10,20,20,6.48
+1005,Squash,20,20,20,6.48
+1006,Eggplant,40,20,10,6.48
+1007,Broccoli,120,20,80,6.48
+1008,Cauliflower,80,10,40,6.48
+1009,Cabbage,100,50,60,6.48
+1010,Celery,120,60,65,5.98
+1011,Brussels Sprouts,180,60,90,4.98
+1012,Carrots,80,50,30,5.48
+1013,Beetroot,25,100,50,5.98
+1014,Radishes,100,60,30,6.48
+1015,Kohlrabi,90,20,120,4.98
+1016,Turnips,30,25,40,5.98
+1017,Peas,60,60,50,5.98
+1018,"Beans (Green Beans, Pole Beans)",90,50,20,6.48
+1019,Asparagus,20,50,20,4.48
+1020,Leeks,10,10,10,4.1800000000000015
+1021,Fennel,20,10,10,5.98
+1022,Strawberries,40,25,50,4.1800000000000015
+1023,Blueberries,20,15,25,3.08
+1024,Blackberries,50,50,50,5.48
+1025,Raspberries,50,10,60,5.48
+1026,Grapes,20,10,10,3.08
+1027,Watermelon,100,40,90,5.98
+1028,Cantaloupe (Muskmelon),60,10,30,5.48
+1029,Honeydew Melon,160,40,120,6.48
+1030,Pineapple,20,10,40,5.48
+1031,Kiwi,100,75,50,6.48
+1032,Figs,20,20,30,4.98
+1033,Microgreens,20,125,200,3.98
+1034,Alfalfa,75,40,50,4.98
+1035,Wheatgrass,50,50,50,4.98
+1036,Sorrel,100,10,50,5.48
+1037,Amaranth,100,10,50,5.48
+1038,Corn Salad,40,50,25,6.48
+1039,Basil Thai,20,125,200,6.48
+1040,Mustard Cress,40,30,60,4.98
+1041,Purslane,40,20,40,6.48
+1042,Shiso,40,125,20,6.48
+1043,Baby Spinach,20,60,20,4.98
+1044,Pak Choi (Baby Bok Choy),20,10,10,3.98
+1045,Pea Shoots,50,50,50,5.98
+1046,Red Mustard,100,50,20,4.98
+1047,Mizuna Purple,90,40,20,4.98
+1048,Parsley Flat-leaf,100,50,25,4.98
+1049,Leaf Celery,100,60,50,4.98
+1050,Lemon Balm,75,75,150,4.98
+1051,Hyssop,20,20,25,4.98
+1052,Nasturtium,20,20,60,4.98
+1053,Calendula,20,20,60,4.98
+1054,Mustard Spinach,40,50,20,4.98
+1055,Radish Sprouts,25,60,100,4.98
+1056,Pea Tendrils,70,40,60,5.98
+1057,Snow Peas,60,30,30,5.98
+1058,Swiss Mint,20,10,30,4.98
+1059,Thyme English,70,20,10,5.98
+1060,Lemon Basil,100,40,140,5.98
+1061,Summer Savory,90,20,20,5.98
+1062,Okra,25,40,40,5.48
+1063,Peppermint,120,40,20,5.48
+1064,Chamomile,80,40,40,5.48
+1065,Dill Giant,100,20,30,5.48
+1066,Tarragon Russian,50,60,30,5.48
+1067,Basil,80,40,40,5.46
+1068,Mint,80,40,40,5.46
+1069,Oregano,70,40,45,5.46
+1070,Parsley,80,40,20,5.46
+1071,Cilantro (Coriander),50,40,20,5.46
+1072,Rosemary,40,60,80,5.46
+1073,Thyme,90,125,60,4.96
+1074,Sage,90,125,60,4.96
+1075,Dill,40,60,20,4.96
+1076,Chives,25,50,25,4.96
+1077,Tarragon,20,60,20,5.46
+1078,Lemongrass,20,60,20,5.46
+1079,Stevia,20,60,20,5.46
+1080,Marjoram,20,60,20,5.46
+1081,Lavender,20,40,20,5.46
+1082,Lettuce,20,40,20,5.46
+1083,Spinach,40,35,55,5.96
+1084,Arugula,20,60,20,5.96
+1085,Swiss Chard,40,60,20,4.96
+1086,Kale,50,40,20,4.96
+1087,Mustard Greens,90,20,20,6.46
+1088,Collard Greens,100,30,15,6.46
+1089,Endive,30,15,30,6.46
+1090,Watercress,90,60,20,6.46
+1091,Romaine Lettuce,20,60,20,5.46
+1092,Bok Choy,80,15,40,6.46
+1093,Mizuna,120,50,100,5.46
+1094,Tatsoi,60,10,20,6.46
+1095,Radicchio,100,50,50,6.46
+1096,Escarole,100,20,60,6.46
+1097,Tomatoes,100,65,70,6.46
+1098,Cucumbers,40,45,60,5.46
+1099,Bell Peppers,80,70,50,6.46
+1100,Chili Peppers,60,60,85,6.46
+1101,Zucchini,10,20,20,6.46
+1102,Squash,20,20,20,6.46
+1103,Eggplant,40,20,10,6.46
+1104,Broccoli,120,20,80,6.46
+1105,Cauliflower,80,10,40,6.46
+1106,Cabbage,100,50,60,6.46
+1107,Celery,120,60,65,5.96
+1108,Brussels Sprouts,180,60,90,4.96
+1109,Carrots,80,50,30,5.46
+1110,Beetroot,25,100,50,5.96
+1111,Radishes,100,60,30,6.46
+1112,Kohlrabi,90,20,120,4.96
+1113,Turnips,30,25,40,5.96
+1114,Peas,60,60,50,5.96
+1115,"Beans (Green Beans, Pole Beans)",90,50,20,6.46
+1116,Asparagus,20,50,20,4.46
+1117,Leeks,10,10,10,4.16
+1118,Fennel,20,10,10,5.96
+1119,Strawberries,40,25,50,4.16
+1120,Blueberries,20,15,25,3.06
+1121,Blackberries,50,50,50,5.46
+1122,Raspberries,50,10,60,5.46
+1123,Grapes,20,10,10,3.06
+1124,Watermelon,100,40,90,5.96
+1125,Cantaloupe (Muskmelon),60,10,30,5.46
+1126,Honeydew Melon,160,40,120,6.46
+1127,Pineapple,20,10,40,5.46
+1128,Kiwi,100,75,50,6.46
+1129,Figs,20,20,30,4.96
+1130,Microgreens,20,125,200,3.96
+1131,Alfalfa,75,40,50,4.96
+1132,Wheatgrass,50,50,50,4.96
+1133,Sorrel,100,10,50,5.46
+1134,Amaranth,100,10,50,5.46
+1135,Corn Salad,40,50,25,6.46
+1136,Basil Thai,20,125,200,6.46
+1137,Mustard Cress,40,30,60,4.96
+1138,Purslane,40,20,40,6.46
+1139,Shiso,40,125,20,6.46
+1140,Baby Spinach,20,60,20,4.96
+1141,Pak Choi (Baby Bok Choy),20,10,10,3.96
+1142,Pea Shoots,50,50,50,5.96
+1143,Red Mustard,100,50,20,4.96
+1144,Mizuna Purple,90,40,20,4.96
+1145,Parsley Flat-leaf,100,50,25,4.96
+1146,Leaf Celery,100,60,50,4.96
+1147,Lemon Balm,75,75,150,4.96
+1148,Hyssop,20,20,25,4.96
+1149,Nasturtium,20,20,60,4.96
+1150,Calendula,20,20,60,4.96
+1151,Mustard Spinach,40,50,20,4.96
+1152,Radish Sprouts,25,60,100,4.96
+1153,Pea Tendrils,70,40,60,5.96
+1154,Snow Peas,60,30,30,5.96
+1155,Swiss Mint,20,10,30,4.96
+1156,Thyme English,70,20,10,5.96
+1157,Lemon Basil,100,40,140,5.96
+1158,Summer Savory,90,20,20,5.96
+1159,Okra,25,40,40,5.46
+1160,Peppermint,120,40,20,5.46
+1161,Chamomile,80,40,40,5.46
+1162,Dill Giant,100,20,30,5.46
+1163,Tarragon Russian,50,60,30,5.46
+1164,Basil,80,40,40,5.44
+1165,Mint,80,40,40,5.44
+1166,Oregano,70,40,45,5.44
+1167,Parsley,80,40,20,5.44
+1168,Cilantro (Coriander),50,40,20,5.44
+1169,Rosemary,40,60,80,5.44
+1170,Thyme,90,125,60,4.94
+1171,Sage,90,125,60,4.94
+1172,Dill,40,60,20,4.94
+1173,Chives,25,50,25,4.94
+1174,Tarragon,20,60,20,5.44
+1175,Lemongrass,20,60,20,5.44
+1176,Stevia,20,60,20,5.44
+1177,Marjoram,20,60,20,5.44
+1178,Lavender,20,40,20,5.44
+1179,Lettuce,20,40,20,5.44
+1180,Spinach,40,35,55,5.94
+1181,Arugula,20,60,20,5.94
+1182,Swiss Chard,40,60,20,4.94
+1183,Kale,50,40,20,4.94
+1184,Mustard Greens,90,20,20,6.44
+1185,Collard Greens,100,30,15,6.44
+1186,Endive,30,15,30,6.44
+1187,Watercress,90,60,20,6.44
+1188,Romaine Lettuce,20,60,20,5.44
+1189,Bok Choy,80,15,40,6.44
+1190,Mizuna,120,50,100,5.44
+1191,Tatsoi,60,10,20,6.44
+1192,Radicchio,100,50,50,6.44
+1193,Escarole,100,20,60,6.44
+1194,Tomatoes,100,65,70,6.44
+1195,Cucumbers,40,45,60,5.44
+1196,Bell Peppers,80,70,50,6.44
+1197,Chili Peppers,60,60,85,6.44
+1198,Zucchini,10,20,20,6.44
+1199,Squash,20,20,20,6.44
+1200,Eggplant,40,20,10,6.44
+1201,Broccoli,120,20,80,6.44
+1202,Cauliflower,80,10,40,6.44
+1203,Cabbage,100,50,60,6.44
+1204,Celery,120,60,65,5.94
+1205,Brussels Sprouts,180,60,90,4.94
+1206,Carrots,80,50,30,5.44
+1207,Beetroot,25,100,50,5.94
+1208,Radishes,100,60,30,6.44
+1209,Kohlrabi,90,20,120,4.94
+1210,Turnips,30,25,40,5.94
+1211,Peas,60,60,50,5.94
+1212,"Beans (Green Beans, Pole Beans)",90,50,20,6.44
+1213,Asparagus,20,50,20,4.44
+1214,Leeks,10,10,10,4.1400000000000015
+1215,Fennel,20,10,10,5.94
+1216,Strawberries,40,25,50,4.1400000000000015
+1217,Blueberries,20,15,25,3.04
+1218,Blackberries,50,50,50,5.44
+1219,Raspberries,50,10,60,5.44
+1220,Grapes,20,10,10,3.04
+1221,Watermelon,100,40,90,5.94
+1222,Cantaloupe (Muskmelon),60,10,30,5.44
+1223,Honeydew Melon,160,40,120,6.44
+1224,Pineapple,20,10,40,5.44
+1225,Kiwi,100,75,50,6.44
+1226,Figs,20,20,30,4.94
+1227,Microgreens,20,125,200,3.94
+1228,Alfalfa,75,40,50,4.94
+1229,Wheatgrass,50,50,50,4.94
+1230,Sorrel,100,10,50,5.44
+1231,Amaranth,100,10,50,5.44
+1232,Corn Salad,40,50,25,6.44
+1233,Basil Thai,20,125,200,6.44
+1234,Mustard Cress,40,30,60,4.94
+1235,Purslane,40,20,40,6.44
+1236,Shiso,40,125,20,6.44
+1237,Baby Spinach,20,60,20,4.94
+1238,Pak Choi (Baby Bok Choy),20,10,10,3.94
+1239,Pea Shoots,50,50,50,5.94
+1240,Red Mustard,100,50,20,4.94
+1241,Mizuna Purple,90,40,20,4.94
+1242,Parsley Flat-leaf,100,50,25,4.94
+1243,Leaf Celery,100,60,50,4.94
+1244,Lemon Balm,75,75,150,4.94
+1245,Hyssop,20,20,25,4.94
+1246,Nasturtium,20,20,60,4.94
+1247,Calendula,20,20,60,4.94
+1248,Mustard Spinach,40,50,20,4.94
+1249,Radish Sprouts,25,60,100,4.94
+1250,Pea Tendrils,70,40,60,5.94
+1251,Snow Peas,60,30,30,5.94
+1252,Swiss Mint,20,10,30,4.94
+1253,Thyme English,70,20,10,5.94
+1254,Lemon Basil,100,40,140,5.94
+1255,Summer Savory,90,20,20,5.94
+1256,Okra,25,40,40,5.44
+1257,Peppermint,120,40,20,5.44
+1258,Chamomile,80,40,40,5.44
+1259,Dill Giant,100,20,30,5.44
+1260,Tarragon Russian,50,60,30,5.44
+1261,Basil,80,40,40,5.42
+1262,Mint,80,40,40,5.42
+1263,Oregano,70,40,45,5.42
+1264,Parsley,80,40,20,5.42
+1265,Cilantro (Coriander),50,40,20,5.42
+1266,Rosemary,40,60,80,5.42
+1267,Thyme,90,125,60,4.92
+1268,Sage,90,125,60,4.92
+1269,Dill,40,60,20,4.92
+1270,Chives,25,50,25,4.92
+1271,Tarragon,20,60,20,5.42
+1272,Lemongrass,20,60,20,5.42
+1273,Stevia,20,60,20,5.42
+1274,Marjoram,20,60,20,5.42
+1275,Lavender,20,40,20,5.42
+1276,Lettuce,20,40,20,5.42
+1277,Spinach,40,35,55,5.92
+1278,Arugula,20,60,20,5.92
+1279,Swiss Chard,40,60,20,4.92
+1280,Kale,50,40,20,4.92
+1281,Mustard Greens,90,20,20,6.42
+1282,Collard Greens,100,30,15,6.42
+1283,Endive,30,15,30,6.42
+1284,Watercress,90,60,20,6.42
+1285,Romaine Lettuce,20,60,20,5.42
+1286,Bok Choy,80,15,40,6.42
+1287,Mizuna,120,50,100,5.42
+1288,Tatsoi,60,10,20,6.42
+1289,Radicchio,100,50,50,6.42
+1290,Escarole,100,20,60,6.42
+1291,Tomatoes,100,65,70,6.42
+1292,Cucumbers,40,45,60,5.42
+1293,Bell Peppers,80,70,50,6.42
+1294,Chili Peppers,60,60,85,6.42
+1295,Zucchini,10,20,20,6.42
+1296,Squash,20,20,20,6.42
+1297,Eggplant,40,20,10,6.42
+1298,Broccoli,120,20,80,6.42
+1299,Cauliflower,80,10,40,6.42
+1300,Cabbage,100,50,60,6.42
+1301,Celery,120,60,65,5.92
+1302,Brussels Sprouts,180,60,90,4.92
+1303,Carrots,80,50,30,5.42
+1304,Beetroot,25,100,50,5.92
+1305,Radishes,100,60,30,6.42
+1306,Kohlrabi,90,20,120,4.92
+1307,Turnips,30,25,40,5.92
+1308,Peas,60,60,50,5.92
+1309,"Beans (Green Beans, Pole Beans)",90,50,20,6.42
+1310,Asparagus,20,50,20,4.42
+1311,Leeks,10,10,10,4.12
+1312,Fennel,20,10,10,5.92
+1313,Strawberries,40,25,50,4.12
+1314,Blueberries,20,15,25,3.02
+1315,Blackberries,50,50,50,5.42
+1316,Raspberries,50,10,60,5.42
+1317,Grapes,20,10,10,3.02
+1318,Watermelon,100,40,90,5.92
+1319,Cantaloupe (Muskmelon),60,10,30,5.42
+1320,Honeydew Melon,160,40,120,6.42
+1321,Pineapple,20,10,40,5.42
+1322,Kiwi,100,75,50,6.42
+1323,Figs,20,20,30,4.92
+1324,Microgreens,20,125,200,3.92
+1325,Alfalfa,75,40,50,4.92
+1326,Wheatgrass,50,50,50,4.92
+1327,Sorrel,100,10,50,5.42
+1328,Amaranth,100,10,50,5.42
+1329,Corn Salad,40,50,25,6.42
+1330,Basil Thai,20,125,200,6.42
+1331,Mustard Cress,40,30,60,4.92
+1332,Purslane,40,20,40,6.42
+1333,Shiso,40,125,20,6.42
+1334,Baby Spinach,20,60,20,4.92
+1335,Pak Choi (Baby Bok Choy),20,10,10,3.92
+1336,Pea Shoots,50,50,50,5.92
+1337,Red Mustard,100,50,20,4.92
+1338,Mizuna Purple,90,40,20,4.92
+1339,Parsley Flat-leaf,100,50,25,4.92
+1340,Leaf Celery,100,60,50,4.92
+1341,Lemon Balm,75,75,150,4.92
+1342,Hyssop,20,20,25,4.92
+1343,Nasturtium,20,20,60,4.92
+1344,Calendula,20,20,60,4.92
+1345,Mustard Spinach,40,50,20,4.92
+1346,Radish Sprouts,25,60,100,4.92
+1347,Pea Tendrils,70,40,60,5.92
+1348,Snow Peas,60,30,30,5.92
+1349,Swiss Mint,20,10,30,4.92
+1350,Thyme English,70,20,10,5.92
+1351,Lemon Basil,100,40,140,5.92
+1352,Summer Savory,90,20,20,5.92
+1353,Okra,25,40,40,5.42
+1354,Peppermint,120,40,20,5.42
+1355,Chamomile,80,40,40,5.42
+1356,Dill Giant,100,20,30,5.42
+1357,Tarragon Russian,50,60,30,5.42
+1358,Basil,80,40,40,5.4
+1359,Mint,80,40,40,5.4
+1360,Oregano,70,40,45,5.4
+1361,Parsley,80,40,20,5.4
+1362,Cilantro (Coriander),50,40,20,5.4
+1363,Rosemary,40,60,80,5.4
+1364,Thyme,90,125,60,4.9
+1365,Sage,90,125,60,4.9
+1366,Dill,40,60,20,4.9
+1367,Chives,25,50,25,4.9
+1368,Tarragon,20,60,20,5.4
+1369,Lemongrass,20,60,20,5.4
+1370,Stevia,20,60,20,5.4
+1371,Marjoram,20,60,20,5.4
+1372,Lavender,20,40,20,5.4
+1373,Lettuce,20,40,20,5.4
+1374,Spinach,40,35,55,5.9
+1375,Arugula,20,60,20,5.9
+1376,Swiss Chard,40,60,20,4.9
+1377,Kale,50,40,20,4.9
+1378,Mustard Greens,90,20,20,6.4
+1379,Collard Greens,100,30,15,6.4
+1380,Endive,30,15,30,6.4
+1381,Watercress,90,60,20,6.4
+1382,Romaine Lettuce,20,60,20,5.4
+1383,Bok Choy,80,15,40,6.4
+1384,Mizuna,120,50,100,5.4
+1385,Tatsoi,60,10,20,6.4
+1386,Radicchio,100,50,50,6.4
+1387,Escarole,100,20,60,6.4
+1388,Tomatoes,100,65,70,6.4
+1389,Cucumbers,40,45,60,5.4
+1390,Bell Peppers,80,70,50,6.4
+1391,Chili Peppers,60,60,85,6.4
+1392,Zucchini,10,20,20,6.4
+1393,Squash,20,20,20,6.4
+1394,Eggplant,40,20,10,6.4
+1395,Broccoli,120,20,80,6.4
+1396,Cauliflower,80,10,40,6.4
+1397,Cabbage,100,50,60,6.4
+1398,Celery,120,60,65,5.9
+1399,Brussels Sprouts,180,60,90,4.9
+1400,Carrots,80,50,30,5.4
+1401,Beetroot,25,100,50,5.9
+1402,Radishes,100,60,30,6.4
+1403,Kohlrabi,90,20,120,4.9
+1404,Turnips,30,25,40,5.9
+1405,Peas,60,60,50,5.9
+1406,"Beans (Green Beans, Pole Beans)",90,50,20,6.4
+1407,Asparagus,20,50,20,4.4
+1408,Leeks,10,10,10,4.1000000000000005
+1409,Fennel,20,10,10,5.9
+1410,Strawberries,40,25,50,4.1000000000000005
+1411,Blueberries,20,15,25,3.0
+1412,Blackberries,50,50,50,5.4
+1413,Raspberries,50,10,60,5.4
+1414,Grapes,20,10,10,3.0
+1415,Watermelon,100,40,90,5.9
+1416,Cantaloupe (Muskmelon),60,10,30,5.4
+1417,Honeydew Melon,160,40,120,6.4
+1418,Pineapple,20,10,40,5.4
+1419,Kiwi,100,75,50,6.4
+1420,Figs,20,20,30,4.9
+1421,Microgreens,20,125,200,3.9
+1422,Alfalfa,75,40,50,4.9
+1423,Wheatgrass,50,50,50,4.9
+1424,Sorrel,100,10,50,5.4
+1425,Amaranth,100,10,50,5.4
+1426,Corn Salad,40,50,25,6.4
+1427,Basil Thai,20,125,200,6.4
+1428,Mustard Cress,40,30,60,4.9
+1429,Purslane,40,20,40,6.4
+1430,Shiso,40,125,20,6.4
+1431,Baby Spinach,20,60,20,4.9
+1432,Pak Choi (Baby Bok Choy),20,10,10,3.9
+1433,Pea Shoots,50,50,50,5.9
+1434,Red Mustard,100,50,20,4.9
+1435,Mizuna Purple,90,40,20,4.9
+1436,Parsley Flat-leaf,100,50,25,4.9
+1437,Leaf Celery,100,60,50,4.9
+1438,Lemon Balm,75,75,150,4.9
+1439,Hyssop,20,20,25,4.9
+1440,Nasturtium,20,20,60,4.9
+1441,Calendula,20,20,60,4.9
+1442,Mustard Spinach,40,50,20,4.9
+1443,Radish Sprouts,25,60,100,4.9
+1444,Pea Tendrils,70,40,60,5.9
+1445,Snow Peas,60,30,30,5.9
+1446,Swiss Mint,20,10,30,4.9
+1447,Thyme English,70,20,10,5.9
+1448,Lemon Basil,100,40,140,5.9
+1449,Summer Savory,90,20,20,5.9
+1450,Okra,25,40,40,5.4
+1451,Peppermint,120,40,20,5.4
+1452,Chamomile,80,40,40,5.4
+1453,Dill Giant,100,20,30,5.4
+1454,Tarragon Russian,50,60,30,5.4
+1455,Basil,80,40,40,5.38
+1456,Mint,80,40,40,5.38
+1457,Oregano,70,40,45,5.38
+1458,Parsley,80,40,20,5.38
+1459,Cilantro (Coriander),50,40,20,5.38
+1460,Rosemary,40,60,80,5.38
+1461,Thyme,90,125,60,4.88
+1462,Sage,90,125,60,4.88
+1463,Dill,40,60,20,4.88
+1464,Chives,25,50,25,4.88
+1465,Tarragon,20,60,20,5.38
+1466,Lemongrass,20,60,20,5.38
+1467,Stevia,20,60,20,5.38
+1468,Marjoram,20,60,20,5.38
+1469,Lavender,20,40,20,5.38
+1470,Lettuce,20,40,20,5.38
+1471,Spinach,40,35,55,5.88
+1472,Arugula,20,60,20,5.88
+1473,Swiss Chard,40,60,20,4.88
+1474,Kale,50,40,20,4.88
+1475,Mustard Greens,90,20,20,6.38
+1476,Collard Greens,100,30,15,6.38
+1477,Endive,30,15,30,6.38
+1478,Watercress,90,60,20,6.38
+1479,Romaine Lettuce,20,60,20,5.38
+1480,Bok Choy,80,15,40,6.38
+1481,Mizuna,120,50,100,5.38
+1482,Tatsoi,60,10,20,6.38
+1483,Radicchio,100,50,50,6.38
+1484,Escarole,100,20,60,6.38
+1485,Tomatoes,100,65,70,6.38
+1486,Cucumbers,40,45,60,5.38
+1487,Bell Peppers,80,70,50,6.38
+1488,Chili Peppers,60,60,85,6.38
+1489,Zucchini,10,20,20,6.38
+1490,Squash,20,20,20,6.38
+1491,Eggplant,40,20,10,6.38
+1492,Broccoli,120,20,80,6.38
+1493,Cauliflower,80,10,40,6.38
+1494,Cabbage,100,50,60,6.38
+1495,Celery,120,60,65,5.88
+1496,Brussels Sprouts,180,60,90,4.88
+1497,Carrots,80,50,30,5.38
+1498,Beetroot,25,100,50,5.88
+1499,Radishes,100,60,30,6.38
+1500,Kohlrabi,90,20,120,4.88
+1501,Turnips,30,25,40,5.88
+1502,Peas,60,60,50,5.88
+1503,"Beans (Green Beans, Pole Beans)",90,50,20,6.38
+1504,Asparagus,20,50,20,4.38
+1505,Leeks,10,10,10,4.08
+1506,Fennel,20,10,10,5.88
+1507,Strawberries,40,25,50,4.08
+1508,Blueberries,20,15,25,2.98
+1509,Blackberries,50,50,50,5.38
+1510,Raspberries,50,10,60,5.38
+1511,Grapes,20,10,10,2.98
+1512,Watermelon,100,40,90,5.88
+1513,Cantaloupe (Muskmelon),60,10,30,5.38
+1514,Honeydew Melon,160,40,120,6.38
+1515,Pineapple,20,10,40,5.38
+1516,Kiwi,100,75,50,6.38
+1517,Figs,20,20,30,4.88
+1518,Microgreens,20,125,200,3.88
+1519,Alfalfa,75,40,50,4.88
+1520,Wheatgrass,50,50,50,4.88
+1521,Sorrel,100,10,50,5.38
+1522,Amaranth,100,10,50,5.38
+1523,Corn Salad,40,50,25,6.38
+1524,Basil Thai,20,125,200,6.38
+1525,Mustard Cress,40,30,60,4.88
+1526,Purslane,40,20,40,6.38
+1527,Shiso,40,125,20,6.38
+1528,Baby Spinach,20,60,20,4.88
+1529,Pak Choi (Baby Bok Choy),20,10,10,3.88
+1530,Pea Shoots,50,50,50,5.88
+1531,Red Mustard,100,50,20,4.88
+1532,Mizuna Purple,90,40,20,4.88
+1533,Parsley Flat-leaf,100,50,25,4.88
+1534,Leaf Celery,100,60,50,4.88
+1535,Lemon Balm,75,75,150,4.88
+1536,Hyssop,20,20,25,4.88
+1537,Nasturtium,20,20,60,4.88
+1538,Calendula,20,20,60,4.88
+1539,Mustard Spinach,40,50,20,4.88
+1540,Radish Sprouts,25,60,100,4.88
+1541,Pea Tendrils,70,40,60,5.88
+1542,Snow Peas,60,30,30,5.88
+1543,Swiss Mint,20,10,30,4.88
+1544,Thyme English,70,20,10,5.88
+1545,Lemon Basil,100,40,140,5.88
+1546,Summer Savory,90,20,20,5.88
+1547,Okra,25,40,40,5.38
+1548,Peppermint,120,40,20,5.38
+1549,Chamomile,80,40,40,5.38
+1550,Dill Giant,100,20,30,5.38
+1551,Tarragon Russian,50,60,30,5.38
+1552,Basil,80,40,40,5.36
+1553,Mint,80,40,40,5.36
+1554,Oregano,70,40,45,5.36
+1555,Parsley,80,40,20,5.36
+1556,Cilantro (Coriander),50,40,20,5.36
+1557,Rosemary,40,60,80,5.36
+1558,Thyme,90,125,60,4.86
+1559,Sage,90,125,60,4.86
+1560,Dill,40,60,20,4.86
+1561,Chives,25,50,25,4.86
+1562,Tarragon,20,60,20,5.36
+1563,Lemongrass,20,60,20,5.36
+1564,Stevia,20,60,20,5.36
+1565,Marjoram,20,60,20,5.36
+1566,Lavender,20,40,20,5.36
+1567,Lettuce,20,40,20,5.36
+1568,Spinach,40,35,55,5.86
+1569,Arugula,20,60,20,5.86
+1570,Swiss Chard,40,60,20,4.86
+1571,Kale,50,40,20,4.86
+1572,Mustard Greens,90,20,20,6.36
+1573,Collard Greens,100,30,15,6.36
+1574,Endive,30,15,30,6.36
+1575,Watercress,90,60,20,6.36
+1576,Romaine Lettuce,20,60,20,5.36
+1577,Bok Choy,80,15,40,6.36
+1578,Mizuna,120,50,100,5.36
+1579,Tatsoi,60,10,20,6.36
+1580,Radicchio,100,50,50,6.36
+1581,Escarole,100,20,60,6.36
+1582,Tomatoes,100,65,70,6.36
+1583,Cucumbers,40,45,60,5.36
+1584,Bell Peppers,80,70,50,6.36
+1585,Chili Peppers,60,60,85,6.36
+1586,Zucchini,10,20,20,6.36
+1587,Squash,20,20,20,6.36
+1588,Eggplant,40,20,10,6.36
+1589,Broccoli,120,20,80,6.36
+1590,Cauliflower,80,10,40,6.36
+1591,Cabbage,100,50,60,6.36
+1592,Celery,120,60,65,5.86
+1593,Brussels Sprouts,180,60,90,4.86
+1594,Carrots,80,50,30,5.36
+1595,Beetroot,25,100,50,5.86
+1596,Radishes,100,60,30,6.36
+1597,Kohlrabi,90,20,120,4.86
+1598,Turnips,30,25,40,5.86
+1599,Peas,60,60,50,5.86
+1600,"Beans (Green Beans, Pole Beans)",90,50,20,6.36
+1601,Asparagus,20,50,20,4.36
+1602,Leeks,10,10,10,4.0600000000000005
+1603,Fennel,20,10,10,5.86
+1604,Strawberries,40,25,50,4.0600000000000005
+1605,Blueberries,20,15,25,2.96
+1606,Blackberries,50,50,50,5.36
+1607,Raspberries,50,10,60,5.36
+1608,Grapes,20,10,10,2.96
+1609,Watermelon,100,40,90,5.86
+1610,Cantaloupe (Muskmelon),60,10,30,5.36
+1611,Honeydew Melon,160,40,120,6.36
+1612,Pineapple,20,10,40,5.36
+1613,Kiwi,100,75,50,6.36
+1614,Figs,20,20,30,4.86
+1615,Microgreens,20,125,200,3.86
+1616,Alfalfa,75,40,50,4.86
+1617,Wheatgrass,50,50,50,4.86
+1618,Sorrel,100,10,50,5.36
+1619,Amaranth,100,10,50,5.36
+1620,Corn Salad,40,50,25,6.36
+1621,Basil Thai,20,125,200,6.36
+1622,Mustard Cress,40,30,60,4.86
+1623,Purslane,40,20,40,6.36
+1624,Shiso,40,125,20,6.36
+1625,Baby Spinach,20,60,20,4.86
+1626,Pak Choi (Baby Bok Choy),20,10,10,3.86
+1627,Pea Shoots,50,50,50,5.86
+1628,Red Mustard,100,50,20,4.86
+1629,Mizuna Purple,90,40,20,4.86
+1630,Parsley Flat-leaf,100,50,25,4.86
+1631,Leaf Celery,100,60,50,4.86
+1632,Lemon Balm,75,75,150,4.86
+1633,Hyssop,20,20,25,4.86
+1634,Nasturtium,20,20,60,4.86
+1635,Calendula,20,20,60,4.86
+1636,Mustard Spinach,40,50,20,4.86
+1637,Radish Sprouts,25,60,100,4.86
+1638,Pea Tendrils,70,40,60,5.86
+1639,Snow Peas,60,30,30,5.86
+1640,Swiss Mint,20,10,30,4.86
+1641,Thyme English,70,20,10,5.86
+1642,Lemon Basil,100,40,140,5.86
+1643,Summer Savory,90,20,20,5.86
+1644,Okra,25,40,40,5.36
+1645,Peppermint,120,40,20,5.36
+1646,Chamomile,80,40,40,5.36
+1647,Dill Giant,100,20,30,5.36
+1648,Tarragon Russian,50,60,30,5.36
+1649,Basil,80,40,40,5.34
+1650,Mint,80,40,40,5.34
+1651,Oregano,70,40,45,5.34
+1652,Parsley,80,40,20,5.34
+1653,Cilantro (Coriander),50,40,20,5.34
+1654,Rosemary,40,60,80,5.34
+1655,Thyme,90,125,60,4.84
+1656,Sage,90,125,60,4.84
+1657,Dill,40,60,20,4.84
+1658,Chives,25,50,25,4.84
+1659,Tarragon,20,60,20,5.34
+1660,Lemongrass,20,60,20,5.34
+1661,Stevia,20,60,20,5.34
+1662,Marjoram,20,60,20,5.34
+1663,Lavender,20,40,20,5.34
+1664,Lettuce,20,40,20,5.34
+1665,Spinach,40,35,55,5.84
+1666,Arugula,20,60,20,5.84
+1667,Swiss Chard,40,60,20,4.84
+1668,Kale,50,40,20,4.84
+1669,Mustard Greens,90,20,20,6.34
+1670,Collard Greens,100,30,15,6.34
+1671,Endive,30,15,30,6.34
+1672,Watercress,90,60,20,6.34
+1673,Romaine Lettuce,20,60,20,5.34
+1674,Bok Choy,80,15,40,6.34
+1675,Mizuna,120,50,100,5.34
+1676,Tatsoi,60,10,20,6.34
+1677,Radicchio,100,50,50,6.34
+1678,Escarole,100,20,60,6.34
+1679,Tomatoes,100,65,70,6.34
+1680,Cucumbers,40,45,60,5.34
+1681,Bell Peppers,80,70,50,6.34
+1682,Chili Peppers,60,60,85,6.34
+1683,Zucchini,10,20,20,6.34
+1684,Squash,20,20,20,6.34
+1685,Eggplant,40,20,10,6.34
+1686,Broccoli,120,20,80,6.34
+1687,Cauliflower,80,10,40,6.34
+1688,Cabbage,100,50,60,6.34
+1689,Celery,120,60,65,5.84
+1690,Brussels Sprouts,180,60,90,4.84
+1691,Carrots,80,50,30,5.34
+1692,Beetroot,25,100,50,5.84
+1693,Radishes,100,60,30,6.34
+1694,Kohlrabi,90,20,120,4.84
+1695,Turnips,30,25,40,5.84
+1696,Peas,60,60,50,5.84
+1697,"Beans (Green Beans, Pole Beans)",90,50,20,6.34
+1698,Asparagus,20,50,20,4.34
+1699,Leeks,10,10,10,4.04
+1700,Fennel,20,10,10,5.84
+1701,Strawberries,40,25,50,4.04
+1702,Blueberries,20,15,25,2.94
+1703,Blackberries,50,50,50,5.34
+1704,Raspberries,50,10,60,5.34
+1705,Grapes,20,10,10,2.94
+1706,Watermelon,100,40,90,5.84
+1707,Cantaloupe (Muskmelon),60,10,30,5.34
+1708,Honeydew Melon,160,40,120,6.34
+1709,Pineapple,20,10,40,5.34
+1710,Kiwi,100,75,50,6.34
+1711,Figs,20,20,30,4.84
+1712,Microgreens,20,125,200,3.84
+1713,Alfalfa,75,40,50,4.84
+1714,Wheatgrass,50,50,50,4.84
+1715,Sorrel,100,10,50,5.34
+1716,Amaranth,100,10,50,5.34
+1717,Corn Salad,40,50,25,6.34
+1718,Basil Thai,20,125,200,6.34
+1719,Mustard Cress,40,30,60,4.84
+1720,Purslane,40,20,40,6.34
+1721,Shiso,40,125,20,6.34
+1722,Baby Spinach,20,60,20,4.84
+1723,Pak Choi (Baby Bok Choy),20,10,10,3.84
+1724,Pea Shoots,50,50,50,5.84
+1725,Red Mustard,100,50,20,4.84
+1726,Mizuna Purple,90,40,20,4.84
+1727,Parsley Flat-leaf,100,50,25,4.84
+1728,Leaf Celery,100,60,50,4.84
+1729,Lemon Balm,75,75,150,4.84
+1730,Hyssop,20,20,25,4.84
+1731,Nasturtium,20,20,60,4.84
+1732,Calendula,20,20,60,4.84
+1733,Mustard Spinach,40,50,20,4.84
+1734,Radish Sprouts,25,60,100,4.84
+1735,Pea Tendrils,70,40,60,5.84
+1736,Snow Peas,60,30,30,5.84
+1737,Swiss Mint,20,10,30,4.84
+1738,Thyme English,70,20,10,5.84
+1739,Lemon Basil,100,40,140,5.84
+1740,Summer Savory,90,20,20,5.84
+1741,Okra,25,40,40,5.34
+1742,Peppermint,120,40,20,5.34
+1743,Chamomile,80,40,40,5.34
+1744,Dill Giant,100,20,30,5.34
+1745,Tarragon Russian,50,60,30,5.34
+1746,Basil,80,40,40,5.32
+1747,Mint,80,40,40,5.32
+1748,Oregano,70,40,45,5.32
+1749,Parsley,80,40,20,5.32
+1750,Cilantro (Coriander),50,40,20,5.32
+1751,Rosemary,40,60,80,5.32
+1752,Thyme,90,125,60,4.82
+1753,Sage,90,125,60,4.82
+1754,Dill,40,60,20,4.82
+1755,Chives,25,50,25,4.82
+1756,Tarragon,20,60,20,5.32
+1757,Lemongrass,20,60,20,5.32
+1758,Stevia,20,60,20,5.32
+1759,Marjoram,20,60,20,5.32
+1760,Lavender,20,40,20,5.32
+1761,Lettuce,20,40,20,5.32
+1762,Spinach,40,35,55,5.82
+1763,Arugula,20,60,20,5.82
+1764,Swiss Chard,40,60,20,4.82
+1765,Kale,50,40,20,4.82
+1766,Mustard Greens,90,20,20,6.32
+1767,Collard Greens,100,30,15,6.32
+1768,Endive,30,15,30,6.32
+1769,Watercress,90,60,20,6.32
+1770,Romaine Lettuce,20,60,20,5.32
+1771,Bok Choy,80,15,40,6.32
+1772,Mizuna,120,50,100,5.32
+1773,Tatsoi,60,10,20,6.32
+1774,Radicchio,100,50,50,6.32
+1775,Escarole,100,20,60,6.32
+1776,Tomatoes,100,65,70,6.32
+1777,Cucumbers,40,45,60,5.32
+1778,Bell Peppers,80,70,50,6.32
+1779,Chili Peppers,60,60,85,6.32
+1780,Zucchini,10,20,20,6.32
+1781,Squash,20,20,20,6.32
+1782,Eggplant,40,20,10,6.32
+1783,Broccoli,120,20,80,6.32
+1784,Cauliflower,80,10,40,6.32
+1785,Cabbage,100,50,60,6.32
+1786,Celery,120,60,65,5.82
+1787,Brussels Sprouts,180,60,90,4.82
+1788,Carrots,80,50,30,5.32
+1789,Beetroot,25,100,50,5.82
+1790,Radishes,100,60,30,6.32
+1791,Kohlrabi,90,20,120,4.82
+1792,Turnips,30,25,40,5.82
+1793,Peas,60,60,50,5.82
+1794,"Beans (Green Beans, Pole Beans)",90,50,20,6.32
+1795,Asparagus,20,50,20,4.32
+1796,Leeks,10,10,10,4.0200000000000005
+1797,Fennel,20,10,10,5.82
+1798,Strawberries,40,25,50,4.0200000000000005
+1799,Blueberries,20,15,25,2.92
+1800,Blackberries,50,50,50,5.32
+1801,Raspberries,50,10,60,5.32
+1802,Grapes,20,10,10,2.92
+1803,Watermelon,100,40,90,5.82
+1804,Cantaloupe (Muskmelon),60,10,30,5.32
+1805,Honeydew Melon,160,40,120,6.32
+1806,Pineapple,20,10,40,5.32
+1807,Kiwi,100,75,50,6.32
+1808,Figs,20,20,30,4.82
+1809,Microgreens,20,125,200,3.82
+1810,Alfalfa,75,40,50,4.82
+1811,Wheatgrass,50,50,50,4.82
+1812,Sorrel,100,10,50,5.32
+1813,Amaranth,100,10,50,5.32
+1814,Corn Salad,40,50,25,6.32
+1815,Basil Thai,20,125,200,6.32
+1816,Mustard Cress,40,30,60,4.82
+1817,Purslane,40,20,40,6.32
+1818,Shiso,40,125,20,6.32
+1819,Baby Spinach,20,60,20,4.82
+1820,Pak Choi (Baby Bok Choy),20,10,10,3.82
+1821,Pea Shoots,50,50,50,5.82
+1822,Red Mustard,100,50,20,4.82
+1823,Mizuna Purple,90,40,20,4.82
+1824,Parsley Flat-leaf,100,50,25,4.82
+1825,Leaf Celery,100,60,50,4.82
+1826,Lemon Balm,75,75,150,4.82
+1827,Hyssop,20,20,25,4.82
+1828,Nasturtium,20,20,60,4.82
+1829,Calendula,20,20,60,4.82
+1830,Mustard Spinach,40,50,20,4.82
+1831,Radish Sprouts,25,60,100,4.82
+1832,Pea Tendrils,70,40,60,5.82
+1833,Snow Peas,60,30,30,5.82
+1834,Swiss Mint,20,10,30,4.82
+1835,Thyme English,70,20,10,5.82
+1836,Lemon Basil,100,40,140,5.82
+1837,Summer Savory,90,20,20,5.82
+1838,Okra,25,40,40,5.32
+1839,Peppermint,120,40,20,5.32
+1840,Chamomile,80,40,40,5.32
+1841,Dill Giant,100,20,30,5.32
+1842,Tarragon Russian,50,60,30,5.32

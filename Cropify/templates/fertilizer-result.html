@@ -1,0 +1,25 @@
+{% extends 'layout.html' %} 
+{% block body %}
+
+<style>
+    .gradient-background {
+        background: linear-gradient(to right, #42476d, #5454c5, #5454c5);/* Your desired gradient colors */
+        padding: 2rem; /* Add padding around the content */
+        border-radius: 10px; /* Optional: add some rounded corners */
+    }
+    .card {
+        background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for the card */
+    }
+</style>
+
+<div class="container gradient-background py-2 mx-auto my-50 h-10" style="margin: 9rem;">
+    <div class="row">
+        <div class="col-sm py-2 py-md-3">
+            <div class="card card-body" style="justify-content: center;">
+                <p class="text-center" style="color: black; font-size: 20px;">{{ recommendation }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,40 @@
+{% extends 'layout.html' %}
+{% block body %}
+
+<style>
+    .mt-0 {
+        margin-top: 50 !important;
+    }
+    .outer-container {
+        background: linear-gradient(to right, #42476d, #5454c5, #5454c5);/* Set outer container background color to blue */
+        padding: 20px;
+        border-radius: 15px; /* Optional rounded corners */
+    }
+
+    /* Heading styles */
+    h1 {
+        font-size: 2rem;
+        font-family: 'Arial', sans-serif;
+        color: #ff4500; /* Bold orange for text */
+        font-weight: bold;
+    }
+
+    h1 i {
+        color: #008000; /* Green for the highlighted crop name */
+        font-style: italic;
+    }
+</style>
+
+<div class="outer-container"> <!-- Added outer container with blue background -->
+    <div class="container py-2 mx-auto my-50 h-10" style="margin: 12rem;">
+        <div class="row">
+            <div class="col-sm py-2 py-md-3">
+                <div class="card card-body" style="justify-content: center;">
+                    <h1 class="text-center"><b>You should grow <i>{{ prediction }} </i> in your farm</b></h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <!-- Closing outer container -->
+
+{% endblock %}
