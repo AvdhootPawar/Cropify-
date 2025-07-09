@@ -41,32 +41,6 @@ Optimize nutrient levels specifically for your hydroponic systems:
 
 ---
 
-## 📸 Screenshots
-
-Here are a few glimpses of Cropify in action, showcasing its user interface and functionalities. To add your own screenshots, replace the `alt text` and `path/to/your/image.png` with your actual details.
-
-### Main Dashboard / Input Form
-
-![Screenshot of the Main Dashboard or Input Form](assets/screenshots/dashboard-or-input.png)
-*Example: A clear shot of the primary interface where users input data.*
-
-### Crop Recommendation Result Page
-
-![Screenshot of Crop Recommendation Result Page](assets/screenshots/crop-result-page.png)
-*Example: Showing the predicted crop and reasoning for the recommendation.*
-
-### Hydroponic Fertilizer Recommendation Output
-
-![Screenshot of Hydroponic Fertilizer Recommendation Output](assets/screenshots/fertilizer-output.png)
-*Example: Displaying the calculated nutrient adjustments and suggestions.*
-
-### Hardware Prototype in Action
-
-![Screenshot of the Hardware Prototype](assets/screenshots/hardware-demo-in-action.jpg)
-*Example: A photo of your physical NFT setup or other hardware demonstration.*
-
----
-
 ## 🛠️ Technical Stack
 
 ### Backend
@@ -94,3 +68,31 @@ Here are a few glimpses of Cropify in action, showcasing its user interface and 
 ## 🌱 Vision & Impact
 
 Cropify aims to bridge the gap between traditional agriculture and modern hydroponic techniques. It's designed as a scalable, smart, and data-driven decision support tool for **sustainable farming**. By seamlessly integrating machine learning, real-time weather data, and expert domain knowledge, Cropify empowers farmers to **boost yield, conserve resources, and make more informed agronomic decisions**.
+
+## 📸 Screenshots
+
+Here are a few glimpses of Cropify in action, showcasing its user interface and functionalities. To add your own screenshots, replace the `alt text` and `path/to/your/image.png` with your actual details.
+
+### Main Dashboard / Input Form
+
+![Screenshot of the Main Dashboard or Input Form](assets/screenshots/dashboard-or-input.png)
+*Example: A clear shot of the primary interface where users input data.*
+
+### Crop Recommendation Result Page
+
+![Screenshot of Crop Recommendation Result Page](assets/screenshots/crop-result-page.png)
+*Example: Showing the predicted crop and reasoning for the recommendation.*
+
+### Hydroponic Fertilizer Recommendation Output
+
+![Screenshot of Hydroponic Fertilizer Recommendation Output](assets/screenshots/fertilizer-output.png)
+*Example: Displaying the calculated nutrient adjustments and suggestions.*
+
+### Hardware Prototype in Action
+
+![Screenshot of the Hardware Prototype](assets/screenshots/hardware-demo-in-action.jpg)
+*Example: A photo of your physical NFT setup or other hardware demonstration.*
+
+---
+
+
